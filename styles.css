@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+header{
+	background-color: #011e29;
+	color:white;
+	height:100px;
+	width:100%;	
+}
+.head{
+	margin:auto;
+	width:200px;
+	padding:15px;
+	text-align:center;
+}
+main{
+	padding-left:20px;
+	padding-right:20px;
+}
+.container{
+	display:flex;
+	gap:3px;
+	margin-top:2px; 
+}
+.block1{
+	background-color:aqua;
+	border-radius:15px;
+	width:25%;
+	height:150px;
+	text-align:center;	
+}
+.block2{
+	background-color:beige;
+	border-radius:15px;
+	width:45%;
+	height:250px;
+	text-align:center;
+}
+.block3{
+	background-color:lightcoral;
+	border-radius:15px;
+	width:30%;
+	text-align:center;
+	padding:10px;
+	
+	
+	
+}
+
