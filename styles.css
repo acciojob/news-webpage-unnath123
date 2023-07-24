@@ -3,7 +3,8 @@ header{
 	background-color: #011e29;
 	color:white;
 	height:100px;
-	width:100%;	
+	width:100%;
+	text-align:center;
 }
 .head{
 	margin:auto;
@@ -20,7 +21,7 @@ main{
 	gap:3px;
 	margin-top:2px; 
 }
-.block1{
+.latest-news-section{
 	background-color:aqua;
 	border-radius:15px;
 	width:25%;
@@ -34,7 +35,7 @@ main{
 	height:250px;
 	text-align:center;
 }
-.block3{
+.pictorial-news-section{
 	background-color:lightcoral;
 	border-radius:15px;
 	width:30%;
